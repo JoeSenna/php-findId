@@ -9,7 +9,7 @@
 <body>
     <form action="find.php" method="post">
         <h2>Digite o ID</h2>
-        <input type="number" name="id">
+        <input type="number" name="id" placeholder="Digite o ID da pesquisa">
         <input type="submit" value="Pesquisar">
     </form>
     
